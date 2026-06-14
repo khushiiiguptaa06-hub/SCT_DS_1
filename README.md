@@ -64,6 +64,16 @@ The following visualizations were created:
 * Top 10 Courses by Student Count
 * Relationship Between Depression and Panic Attacks (Heatmap)
 
+## 📊 Sample Visualizations
+
+### Depression by Gender
+
+![Depression by Gender](depression_gender.png)
+
+### Relationship Between Depression and Panic Attacks
+
+![Heatmap](depression_panic_heatmap.png)
+
 ---
 
 ##  Key Insights
